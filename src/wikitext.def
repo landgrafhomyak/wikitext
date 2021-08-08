@@ -1,0 +1,4 @@
+LIBRARY WikiText
+EXPORTS
+
+    WikiText_Init
